@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/alan-altruy-85b7183ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  &nbsp;
   <a href="https://github.com/alan-altruy">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub">
   </a>
