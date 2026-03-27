@@ -14,6 +14,8 @@
 
 &nbsp;
 
+&nbsp;
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,mysql,spring,maven,docker,git,github,linux" alt="Tech Stack" width="500">
 </p>
@@ -30,9 +32,7 @@
          alt="GitHub Readme Profile" width="500">
   </picture>
 </p>
-
 &nbsp;
-
 <!-- Pac-Man Graph -->
 <p align="center">
   <picture>
