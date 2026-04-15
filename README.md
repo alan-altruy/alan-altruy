@@ -7,7 +7,7 @@
   <a href="https://github.com/alan-altruy">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:200161@umons.ac.be">
+  <a href="mailto:alan.altruy@umons.ac.be">
     <img src="https://img.shields.io/badge/Email-Send-red?style=flat" alt="Email">
   </a>
 </p>
